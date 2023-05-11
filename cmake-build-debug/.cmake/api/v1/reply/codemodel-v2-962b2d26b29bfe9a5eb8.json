@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Operator_Overloading_Exercise_YT_CodeBeauty",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Operator_Overloading_Exercise_YT_CodeBeauty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Operator_Overloading_Exercise_YT_CodeBeauty-Debug-b734c74845bb08c829af.json",
+					"name" : "Operator_Overloading_Exercise_YT_CodeBeauty",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rtavaressilva/CLionProjects/Operator_Overloading_Exercise_YT_CodeBeauty/cmake-build-debug",
+		"source" : "/Users/rtavaressilva/CLionProjects/Operator_Overloading_Exercise_YT_CodeBeauty"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
